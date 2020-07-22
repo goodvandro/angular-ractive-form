@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "angular-reactive-form"
+    }
+  },
+  "defaultProject": "angular-reactive-form",
+  "cli": {
+    "analytics": false
+  }
 }
